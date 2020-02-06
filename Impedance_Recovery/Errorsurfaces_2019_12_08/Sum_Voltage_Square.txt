@@ -1,0 +1,1 @@
+The sum of all evaluated voltages square: 0.000078 $V^2$

@@ -1,0 +1,1 @@
+Embedding Impedance 1 2001 10	 Ratio Voltage/Bin 0.0100 	 12.74, 16.38 Ohm
